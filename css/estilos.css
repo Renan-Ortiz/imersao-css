@@ -4,14 +4,9 @@ body {
   font-family: Arial;
   height: 100vh;
 }
+
 .menu{
   background-color: #ffffff;
-}
-a{
-  text-decoration: none;
-}
-a:hover{
-  text-decoration: underline;
 }
 
 .menu li {
@@ -21,6 +16,14 @@ a:hover{
   display: flex;
   justify-content: space-around;
 }
+
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+
 .site-subtitle, 
 .site-title{
   text-align: center;
