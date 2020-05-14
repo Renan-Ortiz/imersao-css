@@ -131,10 +131,10 @@ font-size: : 1.5em;
 }
 
 @keyframes baby-yoda {
-   0%{transform: scale(0.9) rotate(-5deg);}
-   25%{transform: scale(0.9) rotate(+5deg);}
-   50%{transform: scale(0.9) rotate(-5deg);}
-   75%{transform: scale(0.9) rotate(+5deg);}
-   100%{transform: scale(0.9) rotate(-5deg);}
+   0%{transform: rotate(-5deg);}
+   25%{transform: rotate(+5deg);}
+   50%{transform: rotate(-5deg);}
+   75%{transform: rotate(+5deg);}
+   100%{transform: rotate(-5deg);}
 
 }
